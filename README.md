@@ -5,5 +5,5 @@
 # Install
 
 ```bash
-> mongo.exe C:\Users\user\Desktop\NorthwindMongoDb.js
+> mongo.exe NorthwindMongoDb.js
 ```
